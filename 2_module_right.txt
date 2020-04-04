@@ -1,0 +1,34 @@
+"test" :
+{
+  "color" : black,
+  "dictionary" : 
+  {
+    "Value" : 12,
+    "Name" : Alex,
+    "Cars" :    
+    [
+      BMW,
+      AUDI,
+      Opel
+    ]
+  },
+  "doors" : 4,
+  "point" : 
+  {
+    "pair_x" : 1,
+    "pair_y" : 2
+  },
+  "tires" : good,
+  "two_points" : 
+  [
+    {
+      "pair_x" : 1,
+      "pair_y" : 2
+    },
+    {
+      "pair_x" : 1,
+      "pair_y" : 2
+    }
+  ],
+  "vtype" : sedan
+}
